@@ -6,7 +6,7 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Challenge Accepted: https://github.com/LatusDevTeam/LaravelCodeChallenge
 
-Please Fork or Pull [this repository](https://github.com/noriel0010/latus-challenge]).
+Please Fork or Pull [this repository](https://github.com/noriel0010/latus-challenge).
 
 To make this work, pls follow the steps:
 1. `cp .env.example > .env`.
