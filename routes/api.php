@@ -31,4 +31,5 @@ Route::middleware(['auth:sanctum'])->group(function () {
     });
 
     Route::get('/jokes', [JokeController::class, 'getThree']);
+    Route::post('/dynamic_jokes', [JokeController::class, 'getJokes']);
 });
