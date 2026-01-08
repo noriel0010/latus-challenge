@@ -22,7 +22,7 @@ class AuthController extends Controller
                 'errors' => $validator->errors(),
             ], 422);
         }
-        Log::info('User failed to login.', $request->all());
+        // Log::info('User failed to login.', $request->all());
 
 
         if (!Auth::attempt($request->only('email', 'password'))) {
