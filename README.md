@@ -9,7 +9,7 @@ Challenge Accepted: https://github.com/LatusDevTeam/LaravelCodeChallenge
 Please Fork or Pull [this repository](https://github.com/noriel0010/latus-challenge).
 
 To make this work, pls follow the steps:
-1. `cp .env.example > .env`.
+1. `cp .env.example .env`.
 2. Please copy the absolute path of `latus.sqlite` and paste it in `DB_DATABASE` within `.env`;
 3. Please make sure that it is the absolute path in step #2 to avoid this issue: <img width="481" height="117" alt="image" src="https://github.com/user-attachments/assets/597224c2-2488-425f-9dca-d95d3686afd4" />
 
